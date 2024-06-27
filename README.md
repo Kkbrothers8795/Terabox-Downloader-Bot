@@ -3,7 +3,7 @@ This is a Telegram Bot written in Python for Downloading Videos From Terabox.
 Terabox API/Base Code [**HERE**](https://t.me/Privates_Bots/7212).
 
 ---
-)
+
 ---
 
 <b>Fill this Values in [config.env](config.env)</b>
