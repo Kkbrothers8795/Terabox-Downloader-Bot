@@ -1,33 +1,27 @@
-This is a Telegram Bot written in Python for Downloading Videos From Terabox.
-
-Terabox API/Base Code [**HERE**](https://t.me/Privates_Bots/7212).
-
----
-
----
-
-<b>Fill this Values in [config.env](config.env)</b>
+#### This is a Telegram Bot written in Python for Downloading Videos From Terabox.
+----
+#### <b>Fill this Values in [config.env](config.env)</b>
 - `BOT_TOKEN`: The Telegram Bot Token that you got from [@BotFather](https://t.me/BotFather). `Str`
 - `TELEGRAM_API`: This is to authenticate your Telegram account for downloading Telegram files. You can get this from <https://my.telegram.org>. `Int`
 - `TELEGRAM_HASH`: This is to authenticate your Telegram account for downloading Telegram files. You can get this from <https://my.telegram.org>. `Str`
 - `FSUB_ID`: The Force Subscribe Channel, users will not be able to use your bot without joining the Channel. (Enter the Channel/Group ID starting with -100). `Int`
 - `DUMP_CHAT_ID`: The Dump Channel, all leeched videos will be Forwared Here. (Enter the Channel/Group ID starting with -100). `Int`
-
+  
 ---
 ### For farther assistance visit my support group: [**@HxBots**](https://telegram.me/HxBots).
 ---
 
-## Deploy using CLI on Heroku
+## Deployment
 
-- Deployment instructions uploaded [**HERE**](https://gist.github.com/Hrishi2861/3f04a05b4d86241a454bd284ed1c3dee)
-- Carefully copy-paste every CMD one by one. If you miss maybe your BOT will not run.
+### Render
+#### [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/oVo-HxBots/Terabox-Downloader-Bot)
+ ----
+ 
+### VPS
 
----
-## Deploy on VPS
----
-## Prerequisites
+#### Prerequisites
 
-### 1. Installing requirements
+#### 1. Installing requirements
 
 - Clone this repo:
 
@@ -53,7 +47,7 @@ sudo pacman -S docker python
 
 ------
 
-### 2. Build And Run the Docker Image
+#### 2. Build And Run the Docker Image
 
 Make sure you still mount the app folder and installed the docker from official documentation.
 
