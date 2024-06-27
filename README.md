@@ -19,7 +19,7 @@ Terabox API/Base Code [**HERE**](https://t.me/Privates_Bots/7212).
 - `DUMP_CHAT_ID`: The Dump Channel, all leeched videos will be Forwared Here. (Enter the Channel/Group ID starting with -100). `Int`
 
 ---
-### For farther assistance visit my support group: [**@JetMirror**](https://telegram.me/JetMirror).
+### For farther assistance visit my support group: [**@HxBots**](https://telegram.me/HxBots).
 ---
 
 ## Deploy using CLI on Heroku
@@ -37,7 +37,7 @@ Terabox API/Base Code [**HERE**](https://t.me/Privates_Bots/7212).
 - Clone this repo:
 
 ```
-git clone https://github.com/Hrishi2861/Terabox-Downloader-Bot/ && cd Terabox-Downloader-Bot
+git clone https://github.com/oVo-HxBots/Terabox-Downloader-Bot/ && cd Terabox-Downloader-Bot
 ```
 
 - For Debian based distros
@@ -135,6 +135,3 @@ sudo docker-compose up
 ```
 
 ---
-## If anyone want requirements.txt to run without Docker, access it <a href='https://gist.github.com/Hrishi2861/423aaf4893170f113bd96e59e1d7049a'>Here</a>.
-
-Cmd to start the Bot: bash start.sh
